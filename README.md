@@ -3,7 +3,7 @@ SPA for QR verification of employee status
 
 ## Adding new persons
 
-Edit [data.js][./data.js], append a new object to the data list.
+Edit [data.js](./data.js), append a new object to the data list.
 
 In the form, ID must be unique
 
