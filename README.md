@@ -23,7 +23,7 @@ You can also change existing attributes like setting status to `Inactive`
 
 A profile url is in the form `https://<username>.github.io/<reponame>?id=<profile_id>` where `<profile_id>` is the person's id. 
 
-For example `https://<username>.github.io/<reponame>?id=1` for person with ID 1
+For example [https://jakhax.github.io/staff-verification.github.io/?id=1](https://jakhax.github.io/staff-verification.github.io/?id=1) for person with ID 1
 
 You can use online services like [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/) to generate the QR.
 
